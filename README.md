@@ -1,2 +1,1 @@
-# COCOA
-COcoa Collection Of Algorithms
+# COcoa Collection Of Algorithms
