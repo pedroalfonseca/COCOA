@@ -1,5 +1,5 @@
 # COcoa Collection Of Algorithms :chocolate_bar:
-This repository contains C++ implementations of fundamental algorithms as well as some data structures.
+This repository contains C implementations of fundamental algorithms as well as some data structures.
 
 Made for study purposes.
 
